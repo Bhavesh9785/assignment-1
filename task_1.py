@@ -1,0 +1,8 @@
+p=input("Enter the first number: ")
+q=input("Enter the second number: ")
+p=int(p)
+q=int(q)
+print("\n\nAddition:",(p+q))
+print("Subtraction:",(p-q))
+print("Multiplication:",(p*q))
+print("Division:",(p/q))
